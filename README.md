@@ -90,3 +90,5 @@ Configure /app/Config/database.php for MySQL settings
 Configure /app/Controllers/Component/LdapComponent.php for LDAP settings 
 	
 	(rename from LdapComponent.default.php)
+	
+Contact uqadekke@uq.edu.au to add the FACS installation address to be added to the UQMarkup/FACS iPad application.
