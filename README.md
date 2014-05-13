@@ -29,6 +29,11 @@ Install Services:
 *	SSHD
 *	Webdav (via httpd)
 
+You will also need to install some Unix tools for doing audio conversion (see /www/webdav/convert.sh):
+
+*	faad
+*	lame
+
 Configure Server:
 
 *	The server requires a public hostname (eg: uqmarkup.ceit.uq.edu.au)
